@@ -43,7 +43,6 @@ GNU/Linux.
 * CH 17 : gérer les logiciels sous Ubuntu et Debian ;
 * AN 01 : histoire d'Unix, GNU et Linux
 
-
 # Contribuer
 
 Si ce cours contient une erreur, il suffit de le signaer en créant [un
