@@ -23,7 +23,8 @@ GNU/Linux.
 # Liste des chapitres :
 
 * CH 00 : [prérequis et installation de GameShell](ch/ch00_prerequis_install.md) ;
-* CH 01 : présentation de l'interpréteur en ligne de commande : le shell ;
+* CH 01 : [présentation de l'interpréteur en ligne de commande : le shell
+  Bash](ch/ch01_presentation_bash.md);
 * CH 02 : les commandes de base (niveaux 1 à 12) ;
 * CH 03 : interlude sur le calendrier cal (niveau 13) ;
 * CH 04 : les alias, partie 1 (niveau 14);
