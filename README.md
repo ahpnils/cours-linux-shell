@@ -25,7 +25,7 @@ GNU/Linux.
 * CH 00 : [prérequis et installation de GameShell](ch/ch00_prerequis_install.md) ;
 * CH 01 : [présentation de l'interpréteur en ligne de commande : le shell
   Bash](ch/ch01_presentation_bash.md);
-* CH 02 : les commandes de base (niveaux 1 à 12) ;
+* CH 02 : [les commandes de base (niveaux 1 à 12)](ch/ch02_commandes_base.md) ;
 * CH 03 : interlude sur le calendrier cal (niveau 13) ;
 * CH 04 : les alias, partie 1 (niveau 14);
 * CH 05 : éditer du texte avec nano (niveau 15) et avec vim;
