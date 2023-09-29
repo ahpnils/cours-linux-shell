@@ -39,9 +39,10 @@ GNU/Linux.
 * CH 13 : les permissions (niveaux 35 à 37) ;
 * CH 14 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
 * CH 15 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
-* CH 16 : bonus sur tr (niveau 42) ;
-* CH 16 : gérer les utilisateurs et groupes ;
-* CH 17 : gérer les logiciels sous Ubuntu et Debian ;
+* CH 16 : l'utilisateur root et sudo ;
+* CH 17 : gérer les utilisateurs et groupes ;
+* CH 18 : gérer les logiciels sous Ubuntu et Debian ;
+* CH 19 : bonus sur tr (niveau 42) ;
 * AN 01 : histoire d'Unix, GNU et Linux
 
 # Contribuer
