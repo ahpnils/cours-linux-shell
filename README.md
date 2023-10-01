@@ -27,7 +27,7 @@ GNU/Linux.
   Bash](ch/ch01_presentation_bash.md);
 * CH 02 : [les commandes de base (niveaux 1 à 12)](ch/ch02_commandes_base.md) ;
 * CH 03 : [interlude sur le calendrier cal (niveau 13)](ch/ch03_cal.md) ;
-* CH 04 : les alias, partie 1 (niveau 14);
+* CH 04 : [les alias, partie 1 (niveau 14)](ch/ch04_alias_partie1.md);
 * CH 05 : éditer du texte avec nano (niveau 15) et avec vim;
 * CH 06 : les alias, partie 2 (niveau 16) ;
 * CH 07 : tabulation (auto-complétion, niveau 17) ;
