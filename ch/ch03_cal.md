@@ -1,5 +1,7 @@
 # Chapitre 3 : le calendrier `cal`
 
+## Présentation et utilisation
+
 L'outil `cal` affiche un calendrier en mode texte. Par défaut, il affiche le
 mois en cours, de l'année en cours, et place en surbrillance aujourd'hui.
 
@@ -17,3 +19,7 @@ d'informations, consulter les commandes suivantes :
 
 - `cal --help` ;
 - `man cal`.
+
+## Exercice
+
+GameShell, niveau 13
