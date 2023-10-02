@@ -42,11 +42,11 @@ un univers de type médiéval-fantastique.
 
 Une fois le système Ubuntu ou Xubuntu installé, démarrer l'application
 "terminal", et lancer les commandes suivantes, qui installeront les prérequis
-pour utiliser GameShell (une commande par ligne) :
+pour utiliser GameShell (attention : pour coller dans le terminal, utiliser le
+raccourci "Ctrl+shift+v") :
 
 ```
-sudo apt update
-sudo apt install gettext man-db procps psmisc nano tree bsdmainutils x11-apps wget
+sudo apt update && sudo apt -y install gettext man-db procps psmisc nano tree bsdmainutils x11-apps wget
 ```
 
 Ensuite, télécharger GameShell :
