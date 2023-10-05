@@ -37,8 +37,6 @@ Il existe aussi des chemins spéciaux :
 Ces chemins peuvent être utilisés comme arguments ou options pour des
 commandes.
 
-
-
 ### pwd
 
 Lors du démarrage d'une session (via l'ouverture d'un émulateur de terminal par
@@ -91,6 +89,10 @@ en tapant tout simplement `cd log`. Et une fois dans ce répertoire, il est
 possible en une seule commande d'aller dans le répertoire `session` via `cd
 ../session`.
 
+### Exercices
+
+Passer les niveaux 1 à 3 de GameShell.
+
 ## Action sur les fichiers et répertoires
 
 Comme sur un environnement graphique, il est possible d'effectuer des actions
@@ -140,6 +142,59 @@ Il a lui aussi des options assez similaires à `rm` et `cp` :
   seule commande) ;
 - `-f` ignore les fichiers existant à la cible, ne demande jamais confirmation.
 
+### Les jokers
+
+Les jokers sont des caractères très pratiques qui vont permettre d'agir sur
+plusieurs fichiers ou répertoires à la fois. Il y a deux jokers :
+
+- `?` désigne un caractère, n'importe lequel ;
+- `*` désigne un ou plusieurs caractères, n'importe lesquels.
+
+Les jokers peuvent être utilisés plusieurs fois. Voici un exemple de plusieurs
+fichiers :
+
+```
+rapport-2022-10.txt
+rapport-2022-11.txt
+rapport-2022-12.txt
+rapport-2022-all.txt
+rapport-2023-01.txt
+rapport-2023-02.txt
+rapport-2023-03.txt
+rapport-2023-04.txt
+rapport-2023-05.txt
+rapport-2023-06.txt
+rapport-2023-07.txt
+rapport-2023-08.txt
+rapport-2023-09.txt
+rapport-2023-10.txt
+rapport-2023-all.txt
+```
+
+Dans cet exemple, si on ne souhaite supprimer que les fichiers mensuels de 2022, il est
+préférable de lancer la commande `rm rapport-2022-??.txt` plutôt que  `rm
+rapport-*`, qui effacera aussi le fichier `rapport-2022-all.txt`. 
+
 ### Exercices
 
-Passer les niveaux 1 à 12 de GameShell.
+Passer le niveau 8 de GameShell.
+
+### Les fichiers cachés
+
+Les fichiers et répertoires cachés ont une particularité, le nom commence
+systématiquement par le caractère `.`. Ils ne sont pas affichés lors d'un `ls`.
+D'ailleurs, les emplacement spéciaux `.` et `..` sont  techniquement des
+répertoires cachés. Pour les afficher lorsqu'on liste des fichiers, deux
+options existent :
+
+- `-a`, qui affiche tous les fichiers cachés, même `.` et `..` ;
+- `-A`, qui affiche tous les fichiers cachés, **sauf** `.` et `..`.
+
+Il y a une petite subtilité lors de l'utilisation des jokers. Reprenons notre
+exemple précédent, et ajoutons un fichier `.rapport-2022-secret.txt`. La
+commande `rm *-2022-*` n'effacera pas notre fichier caché, il faudra pour cela
+utiliser la commande `rm *-2022-* .*-2022-*`.
+
+### Exercices
+
+Passer les niveaux 9 à 12 de GameShell.
