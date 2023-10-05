@@ -13,7 +13,7 @@ Deux raccourcis pratiques provenant de cette aide :
 
 ### Exercice
 
-GameShell, niveau 15.
+GameShell, niveaux 15 et 16.
 
 ## vi et Vim
 

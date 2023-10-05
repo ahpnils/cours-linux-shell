@@ -1,4 +1,4 @@
-# Chapitre 4 : les alias, partie 1
+# Chapitre 4 : les alias
 
 ## Usage et définitions
 
@@ -25,9 +25,10 @@ commande d'origine (c'est-à-dire, la version non "aliasée") via `\macommande`
 (donc `\ls` pour notre exemple sur `ls`).
 
 Attention ! Ainsi défini, l'alias n'est valable que dans le shell courant, pour
-la session courante. Une fois la session fermée, l'alias est perdu. Nous
-verrons dans un  prochain chapitre comment le mettre  en place de façon
-permanente.
+la session courante. Une fois la session fermée, l'alias est perdu. Il est
+cependant possible d'avoir des alias en permanence dans ses sessions en les
+ajoutant au fichier `~/.bashrc` ou `~/.bash_profile`. L'édition de fichiers
+texte sera abordée dans le prochain chapitre.
 
 ## Exercice
 

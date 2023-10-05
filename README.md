@@ -27,23 +27,22 @@ GNU/Linux.
   Bash](ch/ch01_presentation_bash.md);
 * CH 02 : [les commandes de base (niveaux 1 à 12)](ch/ch02_commandes_base.md) ;
 * CH 03 : [interlude sur le calendrier cal (niveau 13)](ch/ch03_cal.md) ;
-* CH 04 : [les alias, partie 1 (niveau 14)](ch/ch04_alias_partie1.md);
-* CH 05 : [éditer du texte avec nano (niveau 15) et avec
+* CH 04 : [les alias (niveau 14)](ch/ch04_alias.md);
+* CH 05 : [éditer du texte avec nano (niveaux 15 et 16) et avec
   vim](ch/ch05_editer_texte.md);
-* CH 06 : les alias, partie 2 (niveau 16) ;
-* CH 07 : tabulation (auto-complétion, niveau 17) ;
-* CH 08 : tâche de fond, interruption (niveau 18) ;
-* CH 09 : rechercher des fichiers, partie 1 (niveaux 19 à 21) ;
-* CH 10 : redirection d'entrées/sorties, partie 1 (niveaux 22 à 26) ;
-* CH 11 : gestion des processus (niveaux 27 à 29) ;
-* CH 12 : redirection d'entrées/sorties, partie 2 (niveaux 30 à 34) ;
-* CH 13 : les permissions (niveaux 35 à 37) ;
-* CH 14 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
-* CH 15 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
-* CH 16 : l'utilisateur root et sudo ;
-* CH 17 : gérer les utilisateurs et groupes ;
-* CH 18 : gérer les logiciels sous Ubuntu et Debian ;
-* CH 19 : bonus sur tr (niveau 42) ;
+* CH 06 : tabulation (auto-complétion, niveau 17) ;
+* CH 07 : tâche de fond, interruption (niveau 18) ;
+* CH 08 : rechercher des fichiers, partie 1 (niveaux 19 à 21) ;
+* CH 09 : redirection d'entrées/sorties, partie 1 (niveaux 22 à 26) ;
+* CH 10 : gestion des processus (niveaux 27 à 29) ;
+* CH 11 : redirection d'entrées/sorties, partie 2 (niveaux 30 à 34) ;
+* CH 12 : les permissions (niveaux 35 à 37) ;
+* CH 13 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
+* CH 14 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
+* CH 15 : l'utilisateur root et sudo ;
+* CH 16 : gérer les utilisateurs et groupes ;
+* CH 17 : gérer les logiciels sous Ubuntu et Debian ;
+* CH 18 : bonus sur tr (niveau 42) ;
 * AN 01 : [histoire d'UNIX, GNU et Linux](an/an01_historique.md).
 
 # Contribuer
