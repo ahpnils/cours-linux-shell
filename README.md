@@ -47,7 +47,7 @@ GNU/Linux.
 
 # Contribuer
 
-Si ce cours contient une erreur, il suffit de le signaer en créant [un
+Si ce cours contient une erreur, il suffit de le signaler en créant [un
 bug](https://github.com/ahpnils/cours-linux-shell/issues), vous pouvez même
 corriger vous-même celle-ci via une [pull
 request](https://github.com/ahpnils/cours-linux-shell/pulls). Votre nom ou
