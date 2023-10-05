@@ -31,7 +31,7 @@ GNU/Linux.
 * CH 05 : [éditer du texte avec nano (niveaux 15 et 16) et avec
   vim](ch/ch05_editer_texte.md);
 * CH 06 : [tabulation (auto-complétion, niveau 17)](ch/ch06_tabulation.md) ;
-* CH 07 : tâche de fond, interruption (niveau 18) ;
+* CH 07 : [tâche de fond, interruption (niveau 18)](ch/ch07_taches.md) ;
 * CH 08 : rechercher des fichiers, partie 1 (niveaux 19 à 21) ;
 * CH 09 : redirection d'entrées/sorties, partie 1 (niveaux 22 à 26) ;
 * CH 10 : gestion des processus (niveaux 27 à 29) ;
