@@ -34,7 +34,7 @@ GNU/Linux.
 * CH 07 : [tâche de fond, interruption (niveau 18)](ch/ch07_taches.md) ;
 * CH 08 : [rechercher des fichiers, partie 1 (niveaux 19 à
   21)](ch/ch08_rechercher_fichiers_partie1.md) ;
-* CH 09 : redirection d'entrées/sorties, partie 1 (niveaux 22 à 26) ;
+* CH 09 : [redirection d'entrées/sorties, partie 1 (niveaux 22 à 26)](ch/ch09_entrees_sorties.md) ;
 * CH 10 : gestion des processus (niveaux 27 à 29) ;
 * CH 11 : redirection d'entrées/sorties, partie 2 (niveaux 30 à 34) ;
 * CH 12 : les permissions (niveaux 35 à 37) ;
