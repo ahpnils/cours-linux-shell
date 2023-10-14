@@ -45,6 +45,7 @@ GNU/Linux.
 * CH 17 : gérer les logiciels sous Ubuntu et Debian ;
 * CH 18 : bonus sur tr (niveau 42) ;
 * AN 01 : [histoire d'UNIX, GNU et Linux](an/an01_historique.md).
+* AN 02 : [l'aide et la documentation](an/an02_man_documentation.md).
 
 # Contribuer
 
