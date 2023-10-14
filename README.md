@@ -34,16 +34,18 @@ GNU/Linux.
 * CH 07 : [tâche de fond, interruption (niveau 18)](ch/ch07_taches.md) ;
 * CH 08 : [rechercher des fichiers, partie 1 (niveaux 19 à
   21)](ch/ch08_rechercher_fichiers_partie1.md) ;
-* CH 09 : [redirection d'entrées/sorties, partie 1 (niveaux 22 à 26)](ch/ch09_entrees_sorties.md) ;
-* CH 10 : gestion des processus (niveaux 27 à 29) ;
-* CH 11 : redirection d'entrées/sorties, partie 2 (niveaux 30 à 34) ;
-* CH 12 : les permissions (niveaux 35 à 37) ;
-* CH 13 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
-* CH 14 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
-* CH 15 : l'utilisateur root et sudo ;
-* CH 16 : gérer les utilisateurs et groupes ;
-* CH 17 : gérer les logiciels sous Ubuntu et Debian ;
-* CH 18 : bonus sur tr (niveau 42) ;
+* CH 09 : [afficher des fichiers (niveaux 22 à 24)](ch/ch09_afficher_fichiers.md) ;
+* CH 10 : [redirection d'entrées/sorties, partie 1 (niveaux 25 et 26)](ch/ch10_entrees_sorties.md) ;
+* CH 11 : gestion des processus (niveaux 27 à 29) ;
+* CH 12 : redirection d'entrées/sorties, partie 2 (niveaux 30 à 34) ;
+* CH 13 : les permissions (niveaux 35 à 37) ;
+* CH 14 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
+* CH 15 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
+* CH 16 : l'utilisateur root et sudo ;
+* CH 17 : gérer les utilisateurs et groupes ;
+* CH 18 : gérer les logiciels sous Ubuntu et Debian ;
+* CH 19 : les liens symboliques ;
+* CH 20 : bonus sur tr (niveau 42) ;
 * AN 01 : [histoire d'UNIX, GNU et Linux](an/an01_historique.md).
 * AN 02 : [l'aide et la documentation](an/an02_man_documentation.md).
 
