@@ -36,7 +36,7 @@ GNU/Linux.
   21)](ch/ch08_rechercher_fichiers_partie1.md) ;
 * CH 09 : [afficher des fichiers (niveaux 22 à 24)](ch/ch09_afficher_fichiers.md) ;
 * CH 10 : [redirection d'entrées/sorties, partie 1 (niveaux 25 et 26)](ch/ch10_entrees_sorties.md) ;
-* CH 11 : gestion des processus (niveaux 27 à 29) ;
+* CH 11 : [gestion des processus (niveaux 27 à 29)](ch/ch11_processus.md) ;
 * CH 12 : redirection d'entrées/sorties, partie 2 (niveaux 30 à 34) ;
 * CH 13 : les permissions (niveaux 35 à 37) ;
 * CH 14 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
