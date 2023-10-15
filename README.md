@@ -57,7 +57,7 @@ corriger vous-même celle-ci via une [pull
 request](https://github.com/ahpnils/cours-linux-shell/pulls). Votre nom ou
 pseudonyme sera alors ajouté à la liste des personnes ayant contribué.
 
-# Remerciments
+# Remerciements
 
 Ce cours est construit sur l'excellent jeu
 [GameShell](https://github.com/phyver/GameShell). Merci à son créateur et ses
