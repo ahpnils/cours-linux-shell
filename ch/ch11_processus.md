@@ -5,8 +5,8 @@ nous lançonns, mais il est possible d'agir sur tous les programmes du système.
 
 ## lister les processus en cours
 
-Pour lister les programmes en cours d'exécution, il y a deux programmes
-pratiques : `ps` et `top`.
+Pour lister les programmes en cours d'exécution, il y a plusieurs programmes
+pratiques, dont `ps`, `pstree` et `top`.
 
 `ps` affiche à un instant donné la liste des processus en cours dans la
 session. On voudra bien souvent aller plus loin, mais `ps` a la particularité
@@ -22,6 +22,31 @@ leurs options :
 
 Il est généralement plus confortable de rediriger la sortie de ces commandes
 dans un pager ;-)
+
+`pstree` permet, de la même façon que tree, d'afficher les processus en cours
+de fonctionnement dans une arborescence. On peut alors voir de façon assez
+simple quel programme a lancé l'exécution d'un autre. Il est d'ailleurs
+possible de limiter l'arborescence à un programme et ceux qu'il a lancés.
+
+Par exemple, au moment d'écrire ce chapitre, j'utilise l'émulateur de terminal
+Tilix, qui lui exécute un éditeur de texte, une page de manuel, une instance de
+Gameshell et la commande `pstree`. Ayant trouvé le numéro de processus (PID) du
+programme Tilix, je peux lancer :
+
+```
+$ pstree 3538
+tilix─┬─bash───vim───{vim}
+      ├─bash───gameshell.sh───bash─┬─_gsh_goal───pager───less
+      │                            ├─gentille_fee─┬─3*[sortilege───sleep]
+      │                            │              └─tail
+      │                            └─lutin_espiegle─┬─3*[sortilege───sleep]
+      │                                             └─tail
+      ├─bash───pstree
+      ├─bash───man───most
+      └─11*[{tilix}]
+```
+
+L'oeil avisé remarquera les processus du niveau 29.
 
 La commande `top` est différente, car elle reste à l'écran jusqu'à un appui sur
 la touche Q. Elle affiche, en tri sur la consommation processeur, la liste des
@@ -56,7 +81,9 @@ appelé PID. Ce PID est donnée par `top` et `ps`.
 
 ## modifier la priorité des processus avec nice
 
-
+Dans le cas d'un programme dont on sait qu'il va prendre presque toutes les
+ressources processeur, il est possible de le lancer dans une commande qui
+limitera l'accès : `nice`. 
 
 ## Exercices
 
