@@ -49,7 +49,59 @@ dans la sortie standard.
 On retrouve aussi souvent comme dénomination de la sortie d'erreur "stderr" (pour
 standard error).
 
+## Redirection à la fin du fichier
+
+Nous avons vu qu'il est possible de rediriger une sortie dans un fichier mais
+que se passe-t'il si le fichier possède déjà un contenu ? Expérimentons à
+l'aide d'un exemple concrêt :
+
+```
+echo "foo" > ~/foo.txt
+echo "bar" > ~/foo.txt
+cat ~/foo.txt
+```
+
+À l'issue de ces commandes, `~/foo.txt` contient uniquement "bar". Pour pouvoir ajouter
+du texte à la suite du contenu existant, la syntaxe est légèrement différente,
+voici un nouvel exemple :
+
+```
+echo "foo" > ~/bar.txt
+echo "bar" >> ~/bar.txt
+cat ~/bar.txt
+```
+
+À l'issue de ces commandes, le contenu de `~/bar.txt` est :
+
+```
+foo
+bar
+```
+
+Note : il est possible d'utiliser `>>` dès le premier ajout.
+
 ## grep
+
+Nous avons vu les possibilités de lire un fichier, page par page, ou d'en
+afficher qu'une partie, haute ou basse. Mais il est aussi possible de filtrer
+le contenu d'un fichier, grâce à `grep`.
+
+Par exemple, `grep http /etc/services` va rechercher dans le fichier
+`/etc/services` toutes lignes contenant la chaîne `http`. `grep` est très
+puissant et permet par exemple :
+
+* de faire une recherche insensible à la casse, avec l'option `-i` ;
+* d'inverser le filtre (donc d'afficher les lignes ne contenant pas la chaîne
+  de caractères demandée), avec `-v` ;
+* de rechercher un mot entier (séparé par des espaces), grâce à `-w` ;
+* d'utiliser des [expressions
+  rationnelles](https://fr.wikipedia.org/wiki/Expression_r%C3%A9guli%C3%A8re),
+  via l'option `-E`.
+
+Un des nombreux usage de grep, en plus de rechercher du texte dans des
+fichiers, est de filtrer la sortie d'une commande, par exemple : `ps aux | grep
+-i systemd` recherche dans la liste des processus en cours de fonctionnement
+les lignes comportant la chaîne "systemd".
 
 ## Exercices
 
