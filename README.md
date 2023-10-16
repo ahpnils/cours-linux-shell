@@ -39,7 +39,7 @@ GNU/Linux.
 * CH 11 : [gestion des processus (niveaux 27 à 29)](ch/ch11_processus.md) ;
 * CH 12 : [redirection d'entrées/sorties, partie 2 (niveaux 30 à
   34)](ch/ch12_entrees_sorties_part2.md) ;
-* CH 13 : les permissions (niveaux 35 à 37) ;
+* CH 13 : [les permissions (niveaux 35 à 37)](ch/ch13_permissions.md) ;
 * CH 14 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
 * CH 15 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
 * CH 16 : l'utilisateur root et sudo ;
