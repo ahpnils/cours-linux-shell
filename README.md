@@ -40,7 +40,7 @@ GNU/Linux.
 * CH 12 : [redirection d'entrées/sorties, partie 2 (niveaux 30 à
   34)](ch/ch12_entrees_sorties_part2.md) ;
 * CH 13 : [les permissions (niveaux 35 à 37)](ch/ch13_permissions.md) ;
-* CH 14 : rechercher des fichiers, partie 2 (niveaux 38 et 39) ;
+* CH 14 : [xargs et find (niveaux 38 et 39)](ch/ch14_xargs_find.md) ;
 * CH 15 : redirections d'entrées/sorties, partie 2 (niveaux 40 et 41) ;
 * CH 16 : l'utilisateur root et sudo ;
 * CH 17 : gérer les utilisateurs et groupes ;
