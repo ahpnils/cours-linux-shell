@@ -1,3 +1,5 @@
+## Chapitre 18 : gérer les logiciels
+
 ## gestion des paquets logiciels
 
 Ubuntu, comme de nombreuses distributions Linux, permet d'installer des

@@ -44,7 +44,7 @@ GNU/Linux.
 * CH 15 : [compter les mots et lignes(niveaux 40 et 41)](ch/ch15_wc.md) ;
 * CH 16 : [l'utilisateur root et sudo](ch/ch16_root_sudo.md) ;
 * CH 17 : [gérer les utilisateurs et groupes](ch/ch17_utilisateurs_groupes.md) ;
-* CH 18 : [gérer les logiciels sous Ubuntu et Debian](ch/ch18_logiciels.md) ;
+* CH 18 : [gérer les logiciels sous Ubuntu](ch/ch18_logiciels.md) ;
 * CH 19 : les liens symboliques ;
 * CH 20 : bonus sur tr (niveau 42) ;
 * AN 01 : [histoire d'UNIX, GNU et Linux](an/an01_historique.md).
