@@ -43,7 +43,7 @@ GNU/Linux.
 * CH 14 : [xargs et find (niveaux 38 et 39)](ch/ch14_xargs_find.md) ;
 * CH 15 : [compter les mots et lignes(niveaux 40 et 41)](ch/ch15_wc.md) ;
 * CH 16 : [l'utilisateur root et sudo](ch/ch16_root_sudo.md) ;
-* CH 17 : gérer les utilisateurs et groupes ;
+* CH 17 : [gérer les utilisateurs et groupes](ch/ch17_utilisateurs_groupes.md) ;
 * CH 18 : gérer les logiciels sous Ubuntu et Debian ;
 * CH 19 : les liens symboliques ;
 * CH 20 : bonus sur tr (niveau 42) ;
