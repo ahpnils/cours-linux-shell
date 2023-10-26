@@ -61,10 +61,11 @@ autres utilisateurs au fichier `/var/log/boot.log` rencontré plus haut, on peut
 lancer la commande suivante : `chmod g=r,o=r /var/log/boot.log`.
 
 La syntaxe va donc être `chmod  <options> <permissions> <fichier>`. Les
-permissions sont positionnées pour l'utilisateur (user) avec la lettre u, pour
-le groupe (group) avec la lettre g, et pour les autres utilisateurs (others)
-avec la lettre o. On peut alors ensuite spécifier les droits, comme r (read),
-w (write) et x (execution).
+permissions sont positionnées pour l'utilisateur propriétaire du fichier (user) 
+avec la lettre u, pour le groupe propriétaire (group) avec la lettre g, et pour 
+les autres utilisateurs (ceux n'étant ni le propriétaire ni membres du groupe)
+avec la lettre o (others). On peut alors ensuite spécifier les droits,
+comme r (read), w (write) et x (execution).
 
 Une deuxième syntaxe, plus courte, et de prime abord moins lisible, utilise des
 codes chiffŕes :
