@@ -6,7 +6,7 @@ Bien avant les ordinateurs personnels et les interfaces graphqiques, les
 premiers ordinateurs sont tellement grands qu'ils prennent des salles entières.
 Les moyens d'interactions (clavier, écran) sont donc déportés, parfois sur de
 longues distances. On appelle alors ces points d'accès [des
-terminaux](https://fr.wikipedia.org/wiki/Terminal_(informatique).
+terminaux](https://fr.wikipedia.org/wiki/Terminal_(informatique)).
 
 Aujourd'hui, un émulateur de terminal ou un terminal désigne plutôt un
 programme donnant accès à une interface en ligne de commande, généralement un
@@ -55,13 +55,13 @@ arguments. Une commande peut en effet être suffixée par des options ou des
 arguments. Voici un exemple de commande :
 
 ```
-wget --no-verbose -O ~/Pictures/compile.png https://medias.anotherhomepage.org/pix/compile_tools.png
+wget --no-verbose -O ~/compile.png https://medias.anotherhomepage.org/pix/compile_tools.png
 ```
 
 * `wget` est le programme appelé ;
 * `--no-verbose` est une option longue ;
 * `-O` est une option courte ;
-* `~/Pictures/compile.png` est un premier argument ;
+* `~/compile.png` est un premier argument ;
 * `https://medias.anotherhomepage.org/pix/compile_tools.png` est un deuxième
   argument.
 

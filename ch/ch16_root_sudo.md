@@ -59,7 +59,7 @@ Pour obtenir une session root complète, on lancera la commande `sudo -i`.
 
 ## Aparté sur l'historique des commandes
 
-Dans bansh, il est possible de voir l'historique des commandes grâce à la
+Dans Bash, il est possible de voir l'historique des commandes grâce à la
 commande `history`. Chaque commande de l'historique est précédée par un numéro
 qu'il est possible d'utiliser pour rappeler la commande. Pour rappeler la
 commande numéro 5, il suffit alors de taper `!5`, et pour lancer une nouvelle
