@@ -65,4 +65,4 @@ serveur web, où on peut observver en direct les requêtes arriver.
 
 ## Exercices
 
-GameShell, niveaux 22 à 24.
+GameShell, niveaux 24 à 26.

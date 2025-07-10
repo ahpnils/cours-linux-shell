@@ -87,4 +87,4 @@ limitera l'accès : `nice`.
 
 ## Exercices
 
-GameShell, niveaux 27 à 29.
+GameShell, niveaux 29 à 31.

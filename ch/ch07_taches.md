@@ -25,6 +25,6 @@ manquante ou en trop, trop long à exécuter). Si ce programme est en avant-plan
 alors il est possible de l'interrompre avec le raccourci clavier `Ctrl + C`
 (qui ne sert donc pas à effectuer une copie de texte).
 
-## Exercice
+## Exercices
 
-GameShell, niveau 18.
+GameShell, niveaux 18 et 19.

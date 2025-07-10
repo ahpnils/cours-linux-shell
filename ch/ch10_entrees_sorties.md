@@ -28,4 +28,4 @@ est redirigé via le tube.
 
 ## Exercices
 
-GameShell, niveaux 25 et 26.
+GameShell, niveaux 27 et 28.

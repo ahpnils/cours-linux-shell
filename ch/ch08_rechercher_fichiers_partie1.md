@@ -89,4 +89,4 @@ rechercher dans cette base. Ces commandes sont fournies par le paquet
 
 ## Exercices
 
-GameShell, niveaux 19 à 21.
+GameShell, niveaux 21 à 23.

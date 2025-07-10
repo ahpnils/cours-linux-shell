@@ -51,7 +51,7 @@ les actions, et que `xargs` peut être utilisé autrement qu'avec find.
 
 ## Exercices
 
-GameShell, niveaux 38 et 39.
+GameShell, niveaux 40 et 41.
 
 Note : bien qu'il soit techniquement possible de ne pas utiliser `xargs` pour
 le niveau 39, il est recommandé de s'en servir ;-)

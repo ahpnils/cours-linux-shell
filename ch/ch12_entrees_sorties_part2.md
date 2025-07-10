@@ -105,4 +105,4 @@ les lignes comportant la chaîne "systemd".
 
 ## Exercices
 
-GameShell, niveaux 30 à 34.
+GameShell, niveaux 32 à 36.

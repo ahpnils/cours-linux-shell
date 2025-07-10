@@ -1,10 +1,10 @@
-# Chapitre 16 : l'utilisateur root et sudo
+# Chapitre 17 : gérer les utilisateurs et groupes
 
 Les systèmes GNU/Linux et Unix en général sont multi-utilisateurs : il est donc
 possible d'avoir plusieurs utilisateurs partageant une même machine, et des
 fichiers.
 
-## Etape 4 : gestion des utilisateurs
+## Gestion des utilisateurs
 
 Un utilisateur a été créé lors de l'installation, mais il est possible de créer
 d'autres utilisateurs une fois le système installé.
@@ -40,7 +40,7 @@ cette étape. Par exemple, la commande `passwd student1` permet de modifier le
 mot de passe du compte `student1`. Se déconnecter de la session root et
 vérifier que le mot de passe est bien fonctionnel sur chaque compte.
 
-## Etape 5 : gestion des groupes
+## Gestion des groupes
 
 En tant que root, créer un répertoire `/home/groups`. S'assurer que tous les
 utilisateurs du système peuvent entrer dans ce répertoire avec la commande
@@ -82,7 +82,8 @@ aucun droit pour les autres utilisateurs. Vérifier ensuite que cela fonctionne
 au nom de celui-ci, et le rendre accessible en lecture et en écriture pour
 lui-même, en lecture pour le groupe, et aucun droit pour les autres.
 
-## Etape 6 : suppression des utilisateurs et groupes
+## Suppression des utilisateurs et groupes
 
 Utiliser les commandes `userdel` et `groupdel` pour faire le ménage (en tant
-que root).
+que root). En utilisant les pages de manuel des commandes, s'assurer qu'on
+supprime bien les répertoires de documents des utilisateurs supprimés.
