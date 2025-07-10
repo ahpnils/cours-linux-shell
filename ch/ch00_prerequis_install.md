@@ -18,8 +18,7 @@ virtuelle, soit sur une machine dédiée à cet usage.
 Il est possible de voir les prérequis matériels pour l'installation d'Ubuntu
 [sur la page de téléchargement](https://ubuntu.com/download/desktop). Le site
 d'Ubuntu propose aussi un [guide
-d'installation](https://help.ubuntu.com/20.04/installation-guide/index.html).
-Bien que basé sur une ancienne version, celui-ci devrait être toujours valide.
+d'installation](https://ubuntu.com/tutorials/install-ubuntu-desktop).
 
 Si jamais Ubuntu s'avère trop lourd, ou que les prérequis matériels ne sont pas
 atteints, une alternative possible est
@@ -43,7 +42,7 @@ un univers de type médiéval-fantastique.
 Une fois le système Ubuntu ou Xubuntu installé, démarrer l'application
 "terminal", et lancer les commandes suivantes, qui installeront les prérequis
 pour utiliser GameShell (attention : pour coller dans le terminal, utiliser le
-raccourci "Ctrl+shift+v") :
+raccourci "Ctrl+Shift+v") :
 
 ```
 sudo apt update && sudo apt -y install gettext man-db procps psmisc nano tree bsdmainutils x11-apps wget

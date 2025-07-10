@@ -104,7 +104,7 @@ un système jetable, et à ne pas reproduire chez soi).
 
 ## Exercices
 
-GameShell, niveaux 35 à 37.
+GameShell, niveaux 37 à 39.
 
 ## Exercice complémentaire
 

@@ -27,4 +27,4 @@ Quelques exemples :
 
 ## Exercices
 
-GameShell, niveaux 40 et 41.
+GameShell, niveaux 42 et 43.
