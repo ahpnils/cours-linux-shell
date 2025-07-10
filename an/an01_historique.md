@@ -55,17 +55,17 @@ Pour cela, une licence logicielle sera créée : la
 [Linus Torvalds](https://fr.wikipedia.org/wiki/Linus_Torvalds) est étudiant en
 informatique à Helsinki. Il suit le cours d'[Andrew
 Tanenbaum](https://fr.wikipedia.org/wiki/Andrew_Tanenbaum). Ce dernier a créé
-un clone libbre d'UNIX pour les besoins de son enseignement :
+un clone libre d'UNIX pour les besoins de son enseignement :
 [Minix](https://fr.wikipedia.org/wiki/Minixhttps://fr.wikipedia.org/wiki/Minix).
-Mais pour rester simple et garder ses vertus pédagogiques, Tanenbaum refuse
+Mais pour que l'OS reste simple et garde ses vertus pédagogiques, Tanenbaum refuse
 certaines améliorations.
 
 Frustré, Linus décide donc de créer un nouveau système, et annoncera en août
 1991 son projet auprès d'un groupe d'utilisateurs de Minix :
 
 ["I’m doing a (free) operating system (just a hobby, won’t be big
-and professional like gnu) for 386(486) AT clones."](I’m doing a (free) operating system (just a hobby, won’t be big
-and professional like gnu) for 386(486) AT clones.)
+and professional like gnu) for 386(486) AT
+clones."](https://groups.google.com/g/comp.os.minix/c/dlNtH7RRrGA/m/SwRavCzVE7gJ)
 
 ## Contenus supplémentaires
 
