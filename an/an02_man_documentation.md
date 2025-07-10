@@ -44,8 +44,9 @@ liens selon des distributions populaires.
 Ubuntu :
 
 * https://docs.ubuntu.com/ ;
-* https://docs.ubuntu.com/ ;
-* https://docs.ubuntu.com/ (site francophone maintenu par une communauté,
+* https://help.ubuntu.com/ ;
+* https://ubuntu.com/tutorials ;
+* https://doc.ubuntu-fr.org/ (site francophone maintenu par une communauté,
   non-affilié à la société Canonical, éditeur de la distribution Ubuntu).
 
 Debian :
