@@ -62,6 +62,6 @@ pseudonyme sera alors ajouté à la liste des personnes ayant contribué.
 # Remerciements
 
 Ce cours est construit sur l'excellent jeu
-[GameShell](https://github.com/phyver/GameShell). Merci à son créateur et ses
+[GameShell](https://github.com/phyver/GameShell). Merci à son créateur, ses
 contributrices et contributeurs, sans qui ce cours serait sans doute bien moins
 intéressant.
