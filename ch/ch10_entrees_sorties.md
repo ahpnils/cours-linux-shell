@@ -1,4 +1,4 @@
-# Chapitre 10 : redirection de sortie dans un programme
+# Chapitre 10 : redirection de sortie d'un programme
 
 Beaucoup de commandes affichent du texte en sortie sur l'affichage. Il est
 possible de renvoyer cette sortie vers des programmes qui utilisent du texte en
