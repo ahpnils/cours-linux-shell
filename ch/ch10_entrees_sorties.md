@@ -2,7 +2,7 @@
 
 Beaucoup de commandes affichent du texte en sortie sur l'affichage. Il est
 possible de renvoyer cette sortie vers des programmes qui utilisent du texte en
-enntrée.
+entrée.
 
 ## les tubes, ou pipes "|"
 
