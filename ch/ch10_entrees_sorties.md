@@ -22,7 +22,7 @@ L'entrée permet d'alimenter un programme avec des données. Ainsi, dans
 l'exemple précédent, la commande `less` se voit fournir des données (texte)
 dans son entrée via le tube.
 
-La sortie est l'endroit où le programme envoie sont résultat, généralement à
+La sortie est l'endroit où le programme envoie son résultat, généralement à
 l'écran. Mais dans l'exemple du sous-chapitre précédent, le résultat de `dmesg`
 est redirigé via le tube.
 

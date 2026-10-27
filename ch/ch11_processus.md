@@ -1,7 +1,7 @@
 # Chapitre 11 : gestion des processus
 
 Nous avons vu au chapitre 7 qu'il était possible d'agir sur les programmes que
-nous lançonns, mais il est possible d'agir sur tous les programmes du système.
+nous lançons, mais il est possible d'agir sur tous les programmes du système.
 
 ## lister les processus en cours
 
